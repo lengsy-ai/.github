@@ -1,6 +1,6 @@
 # Bem-vindo à Lengsy: Onde a Inteligência Artificial Generativa Encontra a Excelência
 
-:uk: English [English reader?](README_en.md)
+:uk: [English reader?](README_en.md)
 
 ## Sobre Nós
 
