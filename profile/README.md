@@ -1,4 +1,4 @@
-# Bem-vindo à Lengsy: Onde a Inteligência Artificial Generativa Encontra a Excelência
+# Somos a Lengsy: Onde a Inteligência Artificial Generativa Encontra a Excelência
 
 :uk: [English reader?](profile/README_en.md)
 
