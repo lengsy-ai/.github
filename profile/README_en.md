@@ -1,7 +1,5 @@
 # Welcome to Lengsy: Where Generative AI Meets Excellence
 
-:brazil: [leitura em Português](profile/README.md)
-
 ## About Us
 
 At Lengsy, we are on a mission to redefine the landscape of Generative AI with a commitment to excellence. Specializing in crafting conversational chatbots using cutting-edge technologies like RAG (Retrieval-Augmented Generation), we elevate the standard of personalized AI solutions.
