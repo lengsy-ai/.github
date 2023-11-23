@@ -1,6 +1,6 @@
 # Welcome to Lengsy: Where Generative AI Meets Excellence
 
-:brazil: [leitura em Português](README.md)
+:brazil: [leitura em Português](profile/README.md)
 
 ## About Us
 
