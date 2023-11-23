@@ -1,5 +1,7 @@
 # Bem-vindo à Lengsy: Onde a Inteligência Artificial Generativa Encontra a Excelência
 
+:uk: English [English reader?](README_en.md)
+
 ## Sobre Nós
 
 Na Lengsy, estamos em uma missão para redefinir o cenário da Inteligência Artificial Generativa com um compromisso com a excelência. Especializados na criação de chatbots conversacionais usando tecnologias de ponta como RAG (Retrieval-Augmented Generation), elevamos o padrão de soluções de IA personalizadas.
